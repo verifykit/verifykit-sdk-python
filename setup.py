@@ -9,7 +9,7 @@ with open(path.join(this_directory, 'README.md')) as f:
 setup(
   name = 'VerifyKit',
   packages=setuptools.find_packages(),
-  version = '0.3',
+  version = '0.4',
   description = 'VerifyKit is the next gen phone number validation system. Users can easily verify their phone numbers without the need of entering phone number or a pin code.',
   long_description=long_description,
   long_description_content_type='text/markdown',
