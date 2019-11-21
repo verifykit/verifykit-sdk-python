@@ -12,7 +12,7 @@ VerifyKit is the next gen phone number validation system. Users can easily verif
 You can install pip package
 
 ```bash
-pid install VerifyKit
+pip install VerifyKit
 ```
 
 
