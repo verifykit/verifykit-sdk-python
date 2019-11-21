@@ -12,22 +12,11 @@ VerifyKit is the next gen phone number validation system. Users can easily verif
 You can install pip package
 
 ```bash
-pip install VerifyKit
+pid install VerifyKit
 ```
 
 
 ## Usage
-
-```swift
-import VerifyKit
-
-
-let kit = VerifyKit()
-let viewController = kit.viewControllerForLogin()
-self.present(viewController, animated: true, completion: nil)
-```
-
-You can get the result via ```VerifyKitDelegate``` protocol.
 
 ```python
 
